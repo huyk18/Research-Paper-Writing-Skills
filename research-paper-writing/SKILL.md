@@ -64,7 +64,7 @@ Load only the needed section file:
 - Evaluation: `references/evaluation.md`
 - Related Work: `references/related-work.md`
 - Conclusion: `references/conclusion.md`
-- Paper review (Paper Review): `references/paper-review.md`
+- Paper review: `references/paper-review.md`
 - Paragraph clarity source: `references/does-my-writing-flow-source.md`
 - Example bank index: `references/examples/index.md`
 
