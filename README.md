@@ -21,7 +21,7 @@ This repository currently provides one skill package:
 
 Typical use cases:
 
-- Drafting or rewriting Abstract / Introduction / Method / Experiments / Conclusion
+- Drafting or rewriting Abstract / Introduction / Background / Motivation / Challenges / Design / Evaluation / Related Work / Conclusion
 - Improving paragraph flow and section logic
 - Checking claim-evidence alignment
 - Running pre-submission self-review from a reviewer mindset

@@ -13,6 +13,16 @@ Use this folder for concrete writing patterns and locally organized cite targets
 7. Method examples index: `references/examples/method-examples.md`
 8. Method detail files: `references/examples/method/pre-writing-questions.md`, `references/examples/method/module-triad-neural-body.md`, `references/examples/method/neural-body-annotated-figure-text.md`, `references/examples/method/module-design-instant-ngp.md`, `references/examples/method/module-motivation-patterns.md`, `references/examples/method/section-skeleton.md`, `references/examples/method/overview-template.md`, `references/examples/method/example-of-the-three-elements.md`, `references/examples/method/method-writing-common-issues-note.md`
 
+## Section Guides (Storage System Papers)
+
+The following section guides cover the storage-system paper structure:
+
+- Background: `references/background.md`
+- Motivation: `references/motivation.md`
+- Challenges: `references/challenges.md`
+- Design: `references/design.md`
+- Evaluation: `references/evaluation.md`
+
 ## Usage
 
 1. Pick one template from a section guide.
