@@ -1,12 +1,12 @@
 ---
 name: research-paper-writing
-description: Improve academic paper writing quality for ML/CV/NLP-style papers with clear section structure, paragraph flow, and reviewer-facing presentation. Use when drafting or revising Abstract, Introduction, Related Work, Method, Experiments, or Conclusion; polishing figures/tables; checking claim-support alignment; or performing self-review before submission.
+description: Improve academic paper writing quality for storage system papers with clear section structure, paragraph flow, and reviewer-facing presentation. Use when drafting or revising Abstract, Introduction, Background, Motivation, Challenges, Design, Evaluation, Related Work, or Conclusion; polishing figures/tables; checking claim-support alignment; or performing self-review before submission.
 ---
 # Research Paper Writing
 
 ## Overview
 
-Use this skill to rewrite a research paper into a reviewer-friendly, high-clarity draft.
+Use this skill to rewrite a storage system research paper into a reviewer-friendly, high-clarity draft.
 Prioritize first-impression quality (figures/tables/layout), logical flow, and evidence-backed claims.
 
 ## Core Workflow
@@ -57,11 +57,14 @@ Load only the needed section file:
 
 - Introduction: `references/introduction.md`
 - Abstract: `references/abstract.md`
+- Background: `references/background.md`
+- Motivation: `references/motivation.md`
+- Challenges: `references/challenges.md`
+- Design: `references/design.md`
+- Evaluation: `references/evaluation.md`
 - Related Work: `references/related-work.md`
-- Method: `references/method.md`
-- Experiments: `references/experiments.md`
 - Conclusion: `references/conclusion.md`
-- Paper review (Paper Rview): `references/paper-review.md`
+- Paper review (Paper Review): `references/paper-review.md`
 - Paragraph clarity source: `references/does-my-writing-flow-source.md`
 - Example bank index: `references/examples/index.md`
 
@@ -87,7 +90,7 @@ Use `references/paper-review.md` for the full checklist and workflow.
 4. Keep terminology stable across the full paper.
 5. If a claim cannot be supported by results, weaken or remove the claim.
 6. Before finalizing, append and answer a five-dimension self-review question list, then revise the paper based on unresolved items.
-7. Do not load all section references (Introduction/Abstract/Related Work/Method/Experiments/Conclusion) at once; load only the specific section guide needed for the current edit target.
+7. Do not load all section references (Introduction/Abstract/Background/Motivation/Challenges/Design/Evaluation/Related Work/Conclusion) at once; load only the specific section guide needed for the current edit target.
 
 ## Output Contract
 

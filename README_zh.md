@@ -19,7 +19,7 @@
 
 常见使用场景：
 
-- 撰写或重写 Abstract / Introduction / Method / Experiments / Conclusion
+- 撰写或重写 Abstract / Introduction / Background / Motivation / Challenges / Design / Evaluation / Related Work / Conclusion
 - 改善段落衔接与章节逻辑
 - 做 claim-evidence 对齐检查
 - 提交前从 reviewer 视角进行自审
